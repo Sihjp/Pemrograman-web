@@ -1,0 +1,131 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+body h1{
+        padding-left: 20px;
+    
+}
+
+header {
+    display: block;
+    list-style-type: none;
+    background-color: #777;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+header li {
+    display: inline;
+}
+
+header ul li a{
+    padding: 14px 16px;
+    margin: auto;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+.banner{
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+}
+
+h2{
+    margin: 0;
+}
+
+.iwak{
+    padding: 14px 16px;
+    display: block;
+    float: left;
+    clear: right;
+    padding-bottom: 20px;
+}
+
+.speed{
+    padding: 14px 16px;
+    display: block;
+    float: left;
+    clear: right;
+    padding-bottom: 20px;
+}
+
+
+.img1{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-right: 15px;
+}
+
+.img2{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-right: 15px;
+}
+
+.footer{
+    display: block;
+    width: 100%;
+    float: left;
+    clear: right;
+    padding-bottom: 20px;
+    background-color: #777;
+    
+}
+
+.footer ul{
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+.footer li a{
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+div .speeds{
+    margin: auto;
+    width: 800px;
+    height: 800px;
+    padding: 80px 64px;
+    justify-content: center;
+    display: block;
+}
+
+div .fish{
+    margin: auto;
+    width: 800px;
+    height: 800px;
+    padding: 80px 64px;
+    justify-content: center;
+    display: block;
+}
+
+.row1 {
+    margin: auto;
+    padding-left: 20px;
+}
+
+
+.row2 {
+    margin: auto;
+    padding-left: 20px;
+}
