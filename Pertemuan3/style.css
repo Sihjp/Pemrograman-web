@@ -1,0 +1,42 @@
+
+
+/* Styling untuk carousel */
+#carouselSamp .carousel-inner img {
+    width: 100%;
+}
+
+
+/* Custom margin for container in section */
+.container {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+/* Custom styles for footer */
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 2rem 0;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #ddd;
+    text-decoration: underline;
+}
+
+.custom-img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.img-nah{
+    width: 800px;
+    height: 800px;
+    padding-top: 10px;
+}
